@@ -7,4 +7,4 @@
 ##更新日志
 ### 12.10.22 创建文件 版本 0.1
 **说明: 这一版本只是一个裸插件,可以算是一个模板**  
-[下载](https://github.com/qaqxhy/meme_video/archive/refs/heads/main.zip)
+[下载](https://github.com/qaqxhy/meme_video/archive/refs/tags/v0.1.zip)
