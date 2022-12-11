@@ -6,4 +6,5 @@
 - 跳转到其他的站内页继续播放
 ##更新日志
 ### 12.10.22 创建文件 版本 0.1
-php文件下载
+*说明: 这一版本只是一个裸插件,可以算是一个模板*
+[下载](https://github.com/qaqxhy/meme_video/archive/refs/heads/main.zip)
