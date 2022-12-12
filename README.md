@@ -11,6 +11,9 @@
 3.  解压并重命名文件夹为```memevideo```
 4.  在Typecho插件管理页面启用插件  
 ## 更新日志
+### 12.11.22 版本 1.0
+**说明: 实现大部分功能+DEBUG**
+
 ### 12.10.22 创建文件 版本 0.1
 **说明: 这一版本只是一个裸插件,可以算是一个模板**  
 [下载](https://github.com/qaqxhy/meme_video/archive/refs/tags/v0.1.zip)
