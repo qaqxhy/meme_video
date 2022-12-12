@@ -4,7 +4,7 @@
  *
  * @package meme_video
  * @author 2F1A
- * @version 0.1
+ * @version 1.0
  * @link https://github.com/qaqxhy/meme_video
  */
 
